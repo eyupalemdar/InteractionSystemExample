@@ -1,0 +1,3 @@
+[submodule "Plugins/InteractionSystem"]
+	path = Plugins/InteractionSystem
+	url = https://github.com/eyupalemdar/InteractionSystem.git
