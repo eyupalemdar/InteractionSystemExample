@@ -5,5 +5,5 @@ It is a showcase project for InteractionSystem plugin.
 
 ## Setting Up The Project
 - Clone the repository recursively to download with submodule 'InteractionSystem':  
-  `git clone --recursive https://github.com/eyupalemdar/InteractionSystem.git`
+  `git clone --recursive https://github.com/eyupalemdar/InteractionSystemExample.git`
 - Regenerate Visual Studio project files and build your project.
